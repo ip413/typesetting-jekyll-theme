@@ -38,8 +38,9 @@ The last thing you need to do is to register an account on [vercel](https://verc
 
 Frankly speaking, in 2022 GitHub Pages still [do not support](https://github.com/github/pages-gem/issues/651) Jekyll 4.0 and newer version, which makes many new features unavailable. Rendering of mathematical formulas is a problem, MathJax renders fine in Jekyll 4.0 and later versions most of the time, but does not display properly in lower versions. If your blog contains a lot of mathematical formulas, I suggest you deploy it in vercel, because it supports Jekyll versions after 4.0.
 
-Deploying on GitHub Pages just requires adding GitHub actions. Copy all the files of the `.github` folder of the [repository](https://github.com/poole/poole/tree/master/.github) where Poole is located to your own blog directory, and then push it to GitHub. If you also want good rendering of mathematical formulas on GitHub Pages, I recommend taking a look at [KaTeX](https://katex.org/).
+But GitHub has recently [released](https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/) new feature of deploying GitHub Pages using GitHub actions, which allows us to use Jekyll 4.0+ version.
 
+I have already written the actions template and put it in the `.github` directory, so you only need to go to your repository's Settings -> Pages -> Build and deployment, and set the `Source` option to `GitHub Actions`. Note that you don't need to click the `configure` button, because the configuration file I have already written for you can be used directly.
 
 
 ## Local development or debugging
