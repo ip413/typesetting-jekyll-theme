@@ -38,7 +38,7 @@ The last thing you need to do is to register an account on [vercel](https://verc
 
 Frankly speaking, in 2022 GitHub Pages still [do not support](https://github.com/github/pages-gem/issues/651) Jekyll 4.0 and newer version, which makes many new features unavailable. Rendering of mathematical formulas is a problem, MathJax renders fine in Jekyll 4.0 and later versions most of the time, but does not display properly in lower versions. If your blog contains a lot of mathematical formulas, I suggest you deploy it in vercel, because it supports Jekyll versions after 4.0.
 
-Deploying on GitHub Pages just requires adding GitHub actions. Copy all the files of the `.github` folder of the [repository](https://github.com/poole/poole/tree/gh-pages) where Poole is located to your own blog directory, and then push it to GitHub. If you also want good rendering of mathematical formulas on GitHub Pages, I recommend taking a look at [KaTeX](https://katex.org/).
+Deploying on GitHub Pages just requires adding GitHub actions. Copy all the files of the `.github` folder of the [repository](https://github.com/poole/poole/tree/master/.github) where Poole is located to your own blog directory, and then push it to GitHub. If you also want good rendering of mathematical formulas on GitHub Pages, I recommend taking a look at [KaTeX](https://katex.org/).
 
 
 
@@ -73,4 +73,4 @@ Depending on the version of Ruby and Jekyll on your system, there may be some wa
 
 ## License
 
-Open sourced under the [MIT license](https://opensource.org/licenses/MIT).
+Open sourced under the [MIT license](https://github.com/livrth/type/blob/master/LICENSE).
