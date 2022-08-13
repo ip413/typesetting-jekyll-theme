@@ -1,0 +1,43 @@
+# Setup
+title: Type
+# tagline: #remove page tile so it's useless
+url: ""
+paginate: 1
+# baseurl: "" # leave blank here to build for github pages
+permalink: pretty
+timezone: Asia/Shanghai
+highlighter: rouge
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
+author:
+  name: author
+  url:  https://example.com
+  email: example@mail.com
+
+# Custom vars
+version: 3.0.0
