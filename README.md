@@ -7,6 +7,7 @@ See Type in action with the [demo site](https://typesetting.vercel.app/).
 
 ## Features
 - Responsive Design
+- RSS feed (link [here](https://typesetting.vercel.app/atom.xml))
 - Math formula support (view in [example post](https://typesetting.vercel.app/page4))
 - Dark Mode (based on the system theme)
 - [Archive](https://typesetting.vercel.app/archive), tags features (easy to add yourself)

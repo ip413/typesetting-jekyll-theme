@@ -1,7 +1,7 @@
 # Setup
 title: Type
 # tagline: #remove page tile so it's useless
-url: ""
+url: "https://typesetting.vercel.app"
 paginate: 1
 # baseurl: "" # leave blank here to build for github pages
 permalink: pretty
