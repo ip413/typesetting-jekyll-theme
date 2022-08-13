@@ -1,5 +1,6 @@
 # Type
-Just like the [Hyde](https://github.com/poole/hyde) theme, [Poole](https://github.com/poole/poole/tree/gh-pages) is an elegant, classic, minimalistic Jekyll blogging theme, but it hasn't been updated in a long time, and it has some minor bugs and missing features. So I made minor modifications based on it to make the Chinese typesetting more beautiful, added support for mathematical formulas, and fixed some minor bugs.
+
+[Poole](https://github.com/poole/poole/tree/gh-pages) is an elegant, classic, minimalistic Jekyll blogging theme, but it hasn't been updated in a long time, and it has some minor bugs and missing features. So I made minor modifications based on it to make the Chinese typesetting more beautiful, added support for mathematical formulas, and fixed some minor bugs.
 
 ![image](/assets/README.png)
 
@@ -68,7 +69,7 @@ Depending on the version of Ruby and Jekyll on your system, there may be some wa
 
 
 ## Credits
-
+- [Hugo theme Purity](https://github.com/lingsamuel/purity)
 - [Poole - The Jekyll Butler. A no frills responsive Jekyll blog theme.](https://github.com/poole/poole)
 - [Persephone - A minimal jekyll theme for building books and blog.](https://github.com/erlzhang/jekyll-theme-persephone)
 
