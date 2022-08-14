@@ -1,8 +1,10 @@
 # Type
 
-Type is an elegant, minimalistic Jekyll blogging theme based on [poole](https://github.com/poole/poole/tree/gh-pages). It focuses more on typographic style aesthetics, especially Chinese, Japanese, and Korean text content. As we all know, there is no perfect solution to the problem of CJK and English mixed typesetting at present, so it is inevitable that there will be some compromises in the design.
+Type is an elegant, minimalistic Jekyll blogging theme based on [poole](https://github.com/poole/poole/tree/gh-pages). It focuses more on typographic style aesthetics, especially Chinese, Japanese, and Korean text content. As we all know, there is no perfect solution to the problem of CJK and English mixed typesetting at present, so it is inevitable that there will be some compromises in the design. In addition, it implements some fine-grained features and fixes some minor bugs of poole, which you can see below.
 
-![English](/assets/README_en.png)![Chinese](/assets/README_cn.png)
+![English](/assets/README_en.png)
+
+![Chinese](/assets/README_cn.png)
 
 See Type in action with the demo [English typesetting](https://typesetting.vercel.app/2022/08/14/hamlet) / [Chinese typesetting](https://typesetting.vercel.app/2022/08/12/autumn/).
 
@@ -67,7 +69,7 @@ Depending on the version of Ruby and Jekyll on your system, there may be some wa
 
 
 ## Credits
-- [谈谈技术博客的排版](https://zhix.co/posts/talking-typesetting/)
+- [谈谈技术博客的排版 — ZHIX](https://zhix.co/posts/talking-typesetting/)
 - [漢字標準格式 — 印刷品般的汉字排版框架](https://github.com/ethantw/Han/)
 - [从《中文排版需求》开始 — The Type](https://www.thetype.com/2015/04/9171/)
 - [Chinese copywriting guidelines for better written communication／中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/)
