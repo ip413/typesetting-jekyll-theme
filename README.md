@@ -18,14 +18,12 @@ See Type in action with the [demo site](https://typesetting.vercel.app/).
 ## Usage
 
 ### 1. Quickly deploy on vercel
-Clone this repository
+
+Clone this repository:
 ```bash
 $ git clone git@github.com:livrth/type.git blog
 ```
-Go to the blog directory:
-```bash
-$ cd blog
-```
+
 All site titles, and personal information are modified in the `_config.yml` file, you can customize these content.
 
 All blog posts are in the `_posts` directory, create your own here. Be sure to pay attention to the naming format, it needs to start with the date like the files I've put here.
