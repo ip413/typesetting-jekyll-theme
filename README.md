@@ -1,18 +1,18 @@
 # Type
 
-[Poole](https://github.com/poole/poole/tree/gh-pages) is an elegant, classic, minimalistic Jekyll blogging theme, but it hasn't been updated in a long time, and it has some minor bugs and missing features. So I made minor modifications based on it to make the Chinese typesetting more beautiful, added support for mathematical formulas, and fixed some minor bugs.
+Type is an elegant, minimalistic Jekyll blogging theme based on [poole](https://github.com/poole/poole/tree/gh-pages). It focuses more on typographic style aesthetics, especially Chinese, Japanese, and Korean text content. As we all know, there is no perfect solution to the problem of CJK and English mixed typesetting at present, so it is inevitable that there will be some compromises in the design.
 
-![image](/assets/README.png)
+![English](/assets/README_en.png)![Chinese](/assets/README_cn.png)
 
-See Type in action with the [demo site](https://typesetting.vercel.app/).
+See Type in action with the demo [English typesetting](https://typesetting.vercel.app/2022/08/14/hamlet) / [Chinese typesetting](https://typesetting.vercel.app/2022/08/12/autumn/).
 
 ## Features
 - Responsive Design
 - RSS feed (link [here](https://typesetting.vercel.app/atom.xml))
-- Math formula support (view in [example post](https://typesetting.vercel.app/page4))
+- Math formula support (view in [example post](https://typesetting.vercel.app/2022/08/05/example/))
 - Dark Mode (based on the system theme)
 - [Archive](https://typesetting.vercel.app/archive), tags features (easy to add yourself)
-- Rich html style support ([example content](https://typesetting.vercel.app/page4))
+- Rich html style support ([example content](https://typesetting.vercel.app/2022/08/05/example/))
 - GitHub gist embed support and more...
 
 ## Usage
@@ -67,10 +67,15 @@ Depending on the version of Ruby and Jekyll on your system, there may be some wa
 
 
 ## Credits
+- [谈谈技术博客的排版](https://zhix.co/posts/talking-typesetting/)
+- [漢字標準格式 — 印刷品般的汉字排版框架](https://github.com/ethantw/Han/)
+- [从《中文排版需求》开始 — The Type](https://www.thetype.com/2015/04/9171/)
+- [Chinese copywriting guidelines for better written communication／中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/)
+- [Requirements for Chinese Text Layout 中文排版需求](https://w3c.github.io/clreq/)
 - [Understanding Minimalism](http://understandingminimalism.com/)
 - [Hugo theme Purity](https://github.com/lingsamuel/purity)
-- [Poole - The Jekyll Butler. A no frills responsive Jekyll blog theme.](https://github.com/poole/poole)
-- [Persephone - A minimal jekyll theme for building books and blog.](https://github.com/erlzhang/jekyll-theme-persephone)
+- [Poole - The Jekyll Butler. A no frills responsive Jekyll blog theme](https://github.com/poole/poole)
+- [Persephone - A minimal jekyll theme for building books and blog](https://github.com/erlzhang/jekyll-theme-persephone)
 
 ## License
 
