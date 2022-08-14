@@ -69,6 +69,7 @@ Depending on the version of Ruby and Jekyll on your system, there may be some wa
 
 
 ## Credits
+- [Understanding Minimalism](http://understandingminimalism.com/)
 - [Hugo theme Purity](https://github.com/lingsamuel/purity)
 - [Poole - The Jekyll Butler. A no frills responsive Jekyll blog theme.](https://github.com/poole/poole)
 - [Persephone - A minimal jekyll theme for building books and blog.](https://github.com/erlzhang/jekyll-theme-persephone)

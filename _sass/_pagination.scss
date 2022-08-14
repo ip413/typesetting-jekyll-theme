@@ -13,6 +13,7 @@
 
 // Pagination items can be `span`s or `a`s
 .pagination-item {
+  margin-bottom: 30px;
   font-family: var(--body-font);
   display: block;
   padding: 1rem;
@@ -27,7 +28,7 @@
 
 // Only provide a hover state for linked pagination items
 a.pagination-item:hover {
-  background-color: #dfe2e6;
+  background-color: var(--gray-000);
   text-decoration: none;
 }
 
