@@ -1,10 +1,8 @@
 # Type
 
-Type is an elegant, minimalistic Jekyll blogging theme based on [poole](https://github.com/poole/poole/tree/gh-pages). It focuses more on typographic style aesthetics, especially Chinese, Japanese, and Korean text content. As we all know, there is no perfect solution to the problem of CJK and English mixed typesetting at present, so it is inevitable that there will be some compromises in the design. In addition, it implements some fine-grained features and fixes some minor bugs of poole, which you can see below.
+Type is an elegant, minimalistic Jekyll blogging theme based on [poole](https://github.com/poole/poole/tree/gh-pages). It focuses more on typographic style aesthetics, especially Chinese and Japanese content. As we all know, there is no perfect solution to the problem of CJK and Latin mixed typesetting at present, so it is inevitable that there will be some compromises in the design. In addition, it implements some fine-grained features and fixes some minor bugs of poole.
 
 ![English](/assets/README_en.png)
-
-![Chinese](/assets/README_cn.png)
 
 See Type in action with the demo [English typesetting](https://typesetting.vercel.app/2022/08/14/hamlet) / [Chinese typesetting](https://typesetting.vercel.app/2022/08/12/autumn/).
 
