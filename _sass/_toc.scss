@@ -6,6 +6,10 @@
   border: solid var(--border-color);
   border-width: 1px 0;
 
+  a {
+    text-decoration: none;
+  }
+
   &::before {
     display: block;
     margin-left: calc(var(--spacer-3) * -1);
