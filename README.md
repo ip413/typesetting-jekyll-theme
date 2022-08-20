@@ -1,5 +1,9 @@
 # Type
 
+<a href="https://jekyll-themes.com">
+    <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield" loading="lazy">
+</a>
+
 Type is an elegant, minimalistic Jekyll blogging theme based on [poole](https://github.com/poole/poole/tree/gh-pages). It focuses more on typographic style aesthetics, especially Chinese and Japanese content. As we all know, there is no perfect solution to the problem of CJK and Latin mixed typesetting at present, so it is inevitable that there will be some compromises in the design. In addition, it implements some fine-grained features and fixes some minor bugs of poole.
 
 ![English](/assets/README_en.png)
