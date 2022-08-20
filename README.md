@@ -3,6 +3,10 @@
 <a href="https://jekyll-themes.com">
     <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield" loading="lazy">
 </a>
+<a href="https://github.com/livrth/type/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/livrth/type"></a>
+<a href="https://github.com/livrth/type/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/livrth/type"></a>
+<a href="https://github.com/livrth/type/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/livrth/type"></a>
+<a href="https://github.com/livrth/type/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/livrth/type"></a>
 
 Type is an elegant, minimalistic Jekyll blogging theme based on [poole](https://github.com/poole/poole/tree/gh-pages). It focuses more on typographic style aesthetics, especially Chinese and Japanese content. As we all know, there is no perfect solution to the problem of CJK and Latin mixed typesetting at present, so it is inevitable that there will be some compromises in the design. In addition, it implements some fine-grained features and fixes some minor bugs of poole.
 
